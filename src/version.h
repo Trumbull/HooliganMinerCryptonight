@@ -24,13 +24,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig-amd"
-#define APP_NAME      "XMRig-AMD"
-#define APP_DESC      "XMRig OpenCL miner"
-#define APP_VERSION   "2.8.6"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2018 xmrig.com"
+#define APP_ID        "hooligan-cryptonight"
+#define APP_NAME      "HooliganMinerCryptonight"
+#define APP_DESC      "OpenCL miner"
+#define APP_VERSION   "3.1"
+#define APP_DOMAIN    "twitch.tv/thebandit_tv"
+#define APP_SITE      "www.twitch.tv/thebandit_tv"
+#define APP_COPYRIGHT "Copyright (C) 2018 thebandit_tv"
 #define APP_KIND      "amd"
 
 #define APP_VER_MAJOR  2
